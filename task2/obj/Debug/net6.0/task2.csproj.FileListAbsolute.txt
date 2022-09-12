@@ -1,0 +1,15 @@
+F:\frontend\C#\Csharp_sem8_hw\task2\bin\Debug\net6.0\task2.exe
+F:\frontend\C#\Csharp_sem8_hw\task2\bin\Debug\net6.0\task2.deps.json
+F:\frontend\C#\Csharp_sem8_hw\task2\bin\Debug\net6.0\task2.runtimeconfig.json
+F:\frontend\C#\Csharp_sem8_hw\task2\bin\Debug\net6.0\task2.dll
+F:\frontend\C#\Csharp_sem8_hw\task2\bin\Debug\net6.0\task2.pdb
+F:\frontend\C#\Csharp_sem8_hw\task2\obj\Debug\net6.0\task2.csproj.AssemblyReference.cache
+F:\frontend\C#\Csharp_sem8_hw\task2\obj\Debug\net6.0\task2.GeneratedMSBuildEditorConfig.editorconfig
+F:\frontend\C#\Csharp_sem8_hw\task2\obj\Debug\net6.0\task2.AssemblyInfoInputs.cache
+F:\frontend\C#\Csharp_sem8_hw\task2\obj\Debug\net6.0\task2.AssemblyInfo.cs
+F:\frontend\C#\Csharp_sem8_hw\task2\obj\Debug\net6.0\task2.csproj.CoreCompileInputs.cache
+F:\frontend\C#\Csharp_sem8_hw\task2\obj\Debug\net6.0\task2.dll
+F:\frontend\C#\Csharp_sem8_hw\task2\obj\Debug\net6.0\refint\task2.dll
+F:\frontend\C#\Csharp_sem8_hw\task2\obj\Debug\net6.0\task2.pdb
+F:\frontend\C#\Csharp_sem8_hw\task2\obj\Debug\net6.0\task2.genruntimeconfig.cache
+F:\frontend\C#\Csharp_sem8_hw\task2\obj\Debug\net6.0\ref\task2.dll
