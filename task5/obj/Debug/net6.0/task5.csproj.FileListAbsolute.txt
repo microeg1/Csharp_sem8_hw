@@ -1,0 +1,15 @@
+F:\frontend\C#\Csharp_sem8_hw\task5\obj\Debug\net6.0\task5.csproj.AssemblyReference.cache
+F:\frontend\C#\Csharp_sem8_hw\task5\obj\Debug\net6.0\task5.GeneratedMSBuildEditorConfig.editorconfig
+F:\frontend\C#\Csharp_sem8_hw\task5\obj\Debug\net6.0\task5.AssemblyInfoInputs.cache
+F:\frontend\C#\Csharp_sem8_hw\task5\obj\Debug\net6.0\task5.AssemblyInfo.cs
+F:\frontend\C#\Csharp_sem8_hw\task5\obj\Debug\net6.0\task5.csproj.CoreCompileInputs.cache
+F:\frontend\C#\Csharp_sem8_hw\task5\bin\Debug\net6.0\task5.exe
+F:\frontend\C#\Csharp_sem8_hw\task5\bin\Debug\net6.0\task5.deps.json
+F:\frontend\C#\Csharp_sem8_hw\task5\bin\Debug\net6.0\task5.runtimeconfig.json
+F:\frontend\C#\Csharp_sem8_hw\task5\bin\Debug\net6.0\task5.dll
+F:\frontend\C#\Csharp_sem8_hw\task5\bin\Debug\net6.0\task5.pdb
+F:\frontend\C#\Csharp_sem8_hw\task5\obj\Debug\net6.0\task5.dll
+F:\frontend\C#\Csharp_sem8_hw\task5\obj\Debug\net6.0\refint\task5.dll
+F:\frontend\C#\Csharp_sem8_hw\task5\obj\Debug\net6.0\task5.pdb
+F:\frontend\C#\Csharp_sem8_hw\task5\obj\Debug\net6.0\task5.genruntimeconfig.cache
+F:\frontend\C#\Csharp_sem8_hw\task5\obj\Debug\net6.0\ref\task5.dll
